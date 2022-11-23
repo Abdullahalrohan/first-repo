@@ -32,7 +32,7 @@ int main(){
 	}
 
 	//calculate turnaround time and waiting times
-
+// fuck ur system
 	for(int k=0;k<n;k++)
 	{
 		tat[k]=ct[k]-at[k];
